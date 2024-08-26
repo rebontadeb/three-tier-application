@@ -27,8 +27,6 @@ python-dateutil==2.8.2
 PyYAML==6.0.1
 requests==2.31.0
 rpm==4.19.1.1
-selinux @ file:///builddir/build/BUILD/libselinux-3.6/src
-sepolicy @ file:///builddir/build/BUILD/selinux-3.6/python/sepolicy
 setools==4.5.1
 setuptools==69.0.3
 six==1.16.0
